@@ -25,6 +25,6 @@
     "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "katacoda-nodeandruby"
+    "imageid": "stevemar-nodeandruby"
   }
 }
